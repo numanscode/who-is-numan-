@@ -164,7 +164,7 @@ A: Like a bag of Skittles, but with more caffeine.
 
 > _Thanks for stopping by!_ 🚀
 > 
-> _Now go touch some grass, drink some water, and write some dank code!_ 
+> _Now go touch some grass. 
 
 ## 🐟 Chief Morale Officer: Goldfish
 ```
