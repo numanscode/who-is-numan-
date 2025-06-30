@@ -1,5 +1,5 @@
 
-![Numan Vibes Banner](assets/banner.txt)
+![Numan Vibes Banner](banner.txt)
 
 > **hello world**
 >
