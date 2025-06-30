@@ -1,7 +1,4 @@
-
-![Numan Vibes Banner](banner.txt)
-
-> **hello world**
+ **hello world**
 >
 > You just tripped and fell into the most chaotic, meme-fueled, coffee-powered repo on GitHub. No code, just vibes, memes, and the color **rgb(230, 20, 55)**. If you're not running on caffeine and existential dread, are you even a dev?
 
